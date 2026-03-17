@@ -333,8 +333,8 @@
 //     return 0;
 // }
 
-// #include<stdio.h>
-// int main(){
-//     printf("Bye Guys!!");
-//     return 0;
-// }
+#include<stdio.h>
+int main(){
+    printf("Bye Guys!!");
+    return 0;
+}
